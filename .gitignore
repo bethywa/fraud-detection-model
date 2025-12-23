@@ -10,6 +10,5 @@ __pycache__/
 venv/
 .env/
 *.csv
-*.ipynb
 models/
 .vscode/
