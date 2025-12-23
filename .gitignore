@@ -1,0 +1,15 @@
+# .gitignore
+data/
+*.pkl
+*.pickle
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+venv/
+.env/
+*.csv
+*.ipynb
+models/
+.vscode/

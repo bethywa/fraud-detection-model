@@ -1,0 +1,19 @@
+# requirements.txt
+# Core data science packages
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+# Specialized packages
+imbalanced-learn
+plotly
+missingno
+
+# Optional but useful
+ipykernel
+tqdm
+joblib
