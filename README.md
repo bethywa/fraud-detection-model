@@ -31,23 +31,34 @@ Fraud cases represent ~0.17% of the data, making this a highly imbalanced classi
  fraud-detection-model/
 │
 ├── data/
-│   ├── raw/                 # Original dataset
-│   └── processed/           # Cleaned / transformed data
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
 │   ├── 01_eda_preprocessing.ipynb
 │   ├── 02_modeling.ipynb
 │   └── 03_shap_explainability.ipynb
 │
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── features.py
+│   ├── modeling.py
+│   ├── evaluation.py
+│   └── explainability.py
+│
 ├── models/
-│   └── random_forest.pkl    # Saved trained model
+│   └── random_forest.pkl
 │
 ├── reports/
-│   └── figures/             # Plots & visualizations
+│   └── figures/
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 
 
