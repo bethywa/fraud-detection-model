@@ -105,5 +105,6 @@ xgboost
 joblib
 jupyter
 ipykernel
+shap
 
 📌 This covers Task 1 + Task 2 fully.
