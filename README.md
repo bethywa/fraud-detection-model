@@ -200,7 +200,8 @@ Explainable AI techniques bridge the gap between machine learning performance an
    .venv\Scripts\activate
 
 3️⃣ Install dependencies
-   pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 
 ## 📦 requirements.txt (CLEAN & COMPLETE)
@@ -223,4 +224,5 @@ shap
   Author
  Bethelihem
 Machine Learning & Data Science Project
+
 Fraud Detection & Explainable AI
